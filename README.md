@@ -15,7 +15,7 @@ Image of data model: [Sales Analysis Data Model.jpg](https://github.com/trieunh1
 
 4. Data exploration
 
-DAX Formula: [DAX Formula.md](https://github.com/trieunh10-portfolio/Portfolio/blob/main/DAX%20Formula.md)
+DAX Formula: [DAX Formula.md](https://github.com/trieunh10-portfolio/Analyzing-Discount-Impact-on-Profit/blob/main/DAX%20Formula.md)
 
 5. Dashboard design & insights
 (File Power BI)
