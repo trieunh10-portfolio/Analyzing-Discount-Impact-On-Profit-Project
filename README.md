@@ -1,1 +1,7 @@
-# Analyzing-Discount-Impact-on-Profit
+## DAX syntax
+
+> Create Date table
+Date = CALENDARAUTO()
+
+> 
+AVG discount = AVERAGE(Sales[Discount])
