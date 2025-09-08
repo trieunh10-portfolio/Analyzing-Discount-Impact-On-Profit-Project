@@ -11,7 +11,7 @@ Power BI: Query Editor, DAX, Visualization
 1. Data cleaning & transformation by Query Editor in Power BI
 2. Built a Star Schema
 
-Image of data model: [Sales Analysis Data Model.jpg](https://github.com/trieunh10-portfolio/Portfolio/blob/main/Sales%20Analysis%20Data%20Model.jpg)
+Image of data model: [Sales Analysis Data Model.jpg](https://github.com/trieunh10-portfolio/Analyzing-Discount-Impact-on-Profit/blob/main/Sale%20Analysis%20Data%20Model.jpg)
 
 4. Data exploration
 
