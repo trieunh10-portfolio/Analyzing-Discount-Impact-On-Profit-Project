@@ -1,4 +1,4 @@
-# Analyzing Discount Impact on Profit
+# Analyzing Discount Impact On Profit
 ## Goal
 Identify how discount affects profit and detect unprofitable products/regions.
 ## Data
@@ -30,6 +30,6 @@ DAX Formula: [DAX Formula.md](https://github.com/trieunh10-portfolio/Analyzing-D
 - High discount levels can help increase revenue, but not always result in profit. Many products have high revenue but still incur losses
 - The optimal discount range to maintain profitability is between 10% and 20%
 - Control the discount policy for each Sub-Category. For example, limiting the discount on products in the Furniture group, because even a discount of around 10% can easily lead to negative profits
-- The Central region shows a high average discount level but has a low profit margin -> sales policies should be adjusted based on regional performance
+- The Central region shows a high average discount level but has a low profit margin; therefore, sales policies should be adjusted based on regional performance
 
   
