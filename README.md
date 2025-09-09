@@ -10,15 +10,22 @@ Power BI: Query Editor, DAX, Visualization
 ## Process
 1. Data cleaning & transformation by Query Editor in Power BI
 2. Built a Star Schema
+- Divided the dataset into Dimension and Fact tables in Query Editor according to the Star Schema, with:
+  - Fact table: Sales
+  - Dimension table: Customers, Orders, Products
+  - Date table: Date
+   
+- Image of data model: [Sales Analysis Data Model.jpg](https://github.com/trieunh10-portfolio/Analyzing-Discount-Impact-on-Profit/blob/main/Sale%20Analysis%20Data%20Model.jpg)
 
-Image of data model: [Sales Analysis Data Model.jpg](https://github.com/trieunh10-portfolio/Analyzing-Discount-Impact-on-Profit/blob/main/Sale%20Analysis%20Data%20Model.jpg)
+3. Data exploration
 
-4. Data exploration
+- DAX Formula: [DAX Formula.md](https://github.com/trieunh10-portfolio/Analyzing-Discount-Impact-on-Profit/blob/main/DAX%20Formula.md)
 
-DAX Formula: [DAX Formula.md](https://github.com/trieunh10-portfolio/Analyzing-Discount-Impact-on-Profit/blob/main/DAX%20Formula.md)
+4. Create an interactive dashboard in Power BI
 
-5. Dashboard design & insights
-(File Power BI)
+- Link to dashboard: [Sales Analysis Project](https://app.powerbi.com/groups/me/reports/62ef5b4b-6492-42e8-a52b-5c539db844d5?ctid=b1a9fdc0-1d56-4c3d-a481-809fff8a26db&pbi_source=linkShare&bookmarkGuid=3e0a1dba-094e-4807-90c1-4a6483cd5dbe)
+
+- Power BI File: [Analysing Discount Impact on Profit](https://github.com/trieunh10-portfolio/Analyzing-Discount-Impact-On-Profit/blob/main/Discount%20Impact%20Analysis%20Project.pbix)
 
 ## Results
 - Profits gradually increased from 2015 to 2017, while revenue experienced a slight decline from 2014 to 2015.  
@@ -32,4 +39,4 @@ DAX Formula: [DAX Formula.md](https://github.com/trieunh10-portfolio/Analyzing-D
 - Control the discount policy for each Sub-Category. For example, limiting the discount on products in the Furniture group, because even a discount of around 10% can easily lead to negative profits
 - The Central region shows a high average discount level but has a low profit margin; therefore, sales policies should be adjusted based on regional performance
 
-  
+
