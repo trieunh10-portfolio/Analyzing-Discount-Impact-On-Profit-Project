@@ -25,7 +25,7 @@ Power BI: Query Editor, DAX, Visualization
 
 - Link to dashboard: [Discount Impact Analysis Dashboard](https://app.powerbi.com/groups/me/reports/62ef5b4b-6492-42e8-a52b-5c539db844d5?ctid=b1a9fdc0-1d56-4c3d-a481-809fff8a26db&pbi_source=linkShare&bookmarkGuid=3e0a1dba-094e-4807-90c1-4a6483cd5dbe)
 
-- Power BI File: [Analysing Discount Impact on Profit](https://github.com/trieunh10-portfolio/Analyzing-Discount-Impact-On-Profit/blob/main/Discount%20Impact%20Analysis%20Project.pbix)
+- Power BI File: [Analyzing Discount Impact on Profit](https://github.com/trieunh10-portfolio/Analyzing-Discount-Impact-On-Profit/blob/main/Discount%20Impact%20Analysis%20Project.pbix)
 
 ## Results
 - Profits gradually increased from 2015 to 2017, while revenue experienced a slight decline from 2014 to 2015.  
