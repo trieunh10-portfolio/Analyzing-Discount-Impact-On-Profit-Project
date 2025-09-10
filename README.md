@@ -6,14 +6,14 @@ Identify how discount affects profit and detect unprofitable products/regions.
 - Dataset: Superstore Dataset (9994 records, 21 columns)
 - Link: [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 ## Tools and Technique
-Power BI: Query Editor, DAX, Visualization
+Power BI: Query Editor, DAX, Visualization.
 ## Process
 1. Data cleaning & transformation by Query Editor in Power BI
 2. Built a Star Schema
 - Divided the dataset into Dimension and Fact tables in Query Editor according to the Star Schema, with:
-  - Fact table: Sales
-  - Dimension table: Customers, Orders, Products
-  - Date table: Date
+  - Fact table: Sales.
+  - Dimension table: Customers, Orders, Products.
+  - Date table: Date.
    
 - Image of data model: [Sales Analysis Data Model.jpg](https://github.com/trieunh10-portfolio/Analyzing-Discount-Impact-on-Profit/blob/main/Sale%20Analysis%20Data%20Model.jpg)
 
@@ -34,9 +34,9 @@ Power BI: Query Editor, DAX, Visualization
 - The West also has the highest profit, with an average discount of 15.34%. The Central region has the highest average discount at 16.54%, but its profit ranks third out of four regions.  
 - In the sub-categories, furniture has the highest average discount at 17.4%, but some products, such as tables, bookcases, and supplies, show significant losses.  
 ## Insights
-- High discount levels can help increase revenue, but not always result in profit. Many products have high revenue but still incur losses
-- The optimal discount range to maintain profitability is between 10% and 20%
-- Control the discount policy for each Sub-Category. For example, limiting the discount on products in the Furniture group, because even a discount of around 10% can easily lead to negative profits
-- The Central region shows a high average discount level but has a low profit margin; therefore, sales policies should be adjusted based on regional performance
+- High discount levels can help increase revenue, but not always result in profit. Many products have high revenue but still incur losses.
+- The optimal discount range to maintain profitability is between 10% and 20%.
+- Control the discount policy for each Sub-Category. For example, limiting the discount on products in the Furniture group, because even a discount of around 10% can easily lead to negative profits.
+- The Central region shows a high average discount level but has a low profit margin; therefore, sales policies should be adjusted based on regional performance.
 
 
