@@ -1,6 +1,6 @@
 # Analyzing Discount Impact On Profit
 ## Goal
-Identify how discount affects profit and detect unprofitable products/regions.
+Identify how discount affects profit and detect unprofitable products/ regions.
 ## Data
 - Source: Kaggle
 - Dataset: Superstore Dataset (9994 records, 21 columns)
